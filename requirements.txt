@@ -1,0 +1,2 @@
+pynput==1.7.6   # If you use it for any keypress or logging (optional)
+mysql-connector-python==8.0.33  # For SQL connection to MySQL
